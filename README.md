@@ -21,3 +21,7 @@ Below are the concepta I have applied while building this dashboard -
 17) Slicer panel set up in Power BI
 18) Publishing the dashboard to Power BI service
 19) Setting Github portfolio page
+
+
+**HERE is the Screenshot of the project**
+![image](https://github.com/user-attachments/assets/195acefe-3a92-4584-b2d6-a0ce9e5bbcbd)
